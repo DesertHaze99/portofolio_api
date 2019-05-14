@@ -1,0 +1,16 @@
+{
+ "portofolio" : 
+ [{
+  "id": 1,
+  "judul": "Gantikan Website",
+  "diskripsi": "Membuat sebuah website untuk membantu mencari dan memposting pekerjaan sementara bagi yang membutuhkan"
+}, {
+  "id": 2,
+  "judul": "Idekita website",
+  "diskripsi": "Membuat sebuah website untuk menampung ide-ide yang tidak punya tim untuk merealisasikan"
+}, {
+  "id": 3,
+  "judul": "Sistem Informasi KOPMA UGM",
+  "diskripsi": "Membuat sebuah website dashboard untuk membantu admin di KOPMA UGM"
+}]
+}
